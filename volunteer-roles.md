@@ -1,7 +1,14 @@
 # Volunteer Roles
 
-## Volunteer Coordination
-Volunteers help community workshops run smoothly.
+## Event Coordinator
+- Responsibility: Organize the workshop schedule and confirm the venue.
 
-## Roles
-Volunteer responsibilities will be recorded here as workshop plans develop.
+## Registration Volunteer
+- Responsibility: Welcome participants and maintain the attendance list.
+
+## Accessibility Support Volunteer
+- Responsibility: Check access arrangements and help participants
+  locate suitable facilities.
+
+## Materials Volunteer
+- Responsibility: Prepare workshop supplies and distribute materials.
