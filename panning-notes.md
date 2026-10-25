@@ -1,8 +1,5 @@
-# Planning Notes
+## Follow-up Actions
+- Ask residents which future workshop topics interest them.
+- Confirm equipment and material requirements with volunteers.
+- Collect feedback after each event.
 
-## Planning Priorities
-- Choose suitable weekend dates.
-- Confirm the venue before advertising an event.
-- Prepare materials in advance.
-- Provide clear information to participants.
-- Review accessibility requirements during planning.
